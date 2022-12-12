@@ -6,3 +6,4 @@ The paper results can be reproduced by running
 ```
 main.ipynb
 ```
+Hyper-parameters can be modified with different arguments to `main.ipynb`.
