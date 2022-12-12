@@ -7,3 +7,12 @@ The paper results can be reproduced by running
 main.ipynb
 ```
 Hyper-parameters can be modified with different arguments to `main.ipynb`.
+## Bibtex
+```
+@article{zhao2022deep,
+  title={Deep Learning for Wireless Networked Systems: a joint Estimation-Control-Scheduling Approach},
+  author={Zhao, Zihuai and Liu, Wanchun and Quevedo, Daniel E and Li, Yonghui and Vucetic, Branka},
+  journal={arXiv preprint arXiv:2210.00673},
+  year={2022}
+}
+```
