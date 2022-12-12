@@ -2,11 +2,11 @@
 PyTorch implementation of the deep learning (DL)-based estimator-control-scheduler co-design for a model-unknown nonlinear WNCS over wireless fading channels.
 If you use our code or data please cite the paper: https://arxiv.org/pdf/2210.00673.pdf.
 ## Usage
-The paper results can be reproduced by running
+The paper results can be reproduced with minor differences by running
 ```
 main.ipynb
 ```
-Hyper-parameters can be modified with different arguments to `main.ipynb`.
+Code is no longer exactly representative of the code used in the paper. Hyper-parameters can be modified with different arguments to `main.ipynb`. 
 ## Bibtex
 ```
 @article{zhao2022deep,
