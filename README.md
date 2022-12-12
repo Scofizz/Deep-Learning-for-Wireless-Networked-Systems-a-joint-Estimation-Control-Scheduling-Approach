@@ -4,5 +4,5 @@ If you use our code or data please cite the paper: https://arxiv.org/pdf/2210.00
 ## Usage
 The paper results can be reproduced by running
 ```
-main.
+main.ipynb
 ```
