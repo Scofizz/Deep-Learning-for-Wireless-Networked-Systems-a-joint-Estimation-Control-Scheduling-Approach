@@ -17,7 +17,7 @@ Learning curves and numerical results can be found in the paper. The paper resul
 ```
 main.py
 ```
-Please note that `main.py` is no longer exactly representative of the code used in the paper. Hyper-parameters can be modified with different arguments to `main.py`. 
+Please note that `main.py` and other files are no longer exactly representative of the code used in the paper. Hyper-parameters can be modified with different arguments to `main.py` and `tailoredTD3.py`. 
 ## BibTex
 ```
 @article{zhao2022deep,
