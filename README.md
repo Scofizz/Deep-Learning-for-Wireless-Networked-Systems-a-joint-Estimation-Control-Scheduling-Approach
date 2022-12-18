@@ -15,9 +15,9 @@ Extensive experiments demonstrate that the proposed joint training algorithm can
 ## Usage
 Learning curves and numerical results can be found in the paper. The paper results can be reproduced with minor differences by running:
 ```
-main.ipynb
+main.py
 ```
-Please note that `main.ipynb` is no longer exactly representative of the code used in the paper. Hyper-parameters can be modified with different arguments to `main.ipynb`. 
+Please note that `main.py` is no longer exactly representative of the code used in the paper. Hyper-parameters can be modified with different arguments to `main.py`. 
 ## BibTex
 ```
 @article{zhao2022deep,
